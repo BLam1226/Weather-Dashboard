@@ -31,6 +31,17 @@ body {
     width: 100%;
 }
 
+#daily-forecast .card {
+    width: 150px;
+    height: auto;
+}
+
+.weather-icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+  
 @media only screen and (max-width: 530px) {
     /* Reducing h1 text size for mobile screens */
     .navbar .center {
