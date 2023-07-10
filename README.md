@@ -19,6 +19,7 @@ N/A
 Input a city to display the current weather conditions along with a 5 day forecast of the city. There is a search history to browse previous cities that were searched and saved onto the local storage.
 
 Web URL: https://blam1226.github.io/Weather-Dashboard/
+![Screenshot 2023-07-10 023429](https://github.com/BLam1226/Weather-Dashboard/assets/127125695/aeef7b37-a1f3-42da-89d4-2161d7c3e2bc)
 
 ### Credits
 
